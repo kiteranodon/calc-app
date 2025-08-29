@@ -11,4 +11,4 @@ Route::get('/', function () {
 
 
 
-Volt::route('/calcs/{number1}/{operator}/{number2}', 'calcs');
+Volt::route('/calcs/{number1}/{operator}/{number2}', 'calc');
